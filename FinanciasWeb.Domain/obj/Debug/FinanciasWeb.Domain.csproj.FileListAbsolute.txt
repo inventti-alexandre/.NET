@@ -1,0 +1,14 @@
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Domain\bin\Debug\FinanciasWeb.Domain.dll
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Domain\bin\Debug\FinanciasWeb.Domain.pdb
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Domain\bin\Debug\FinanciasWeb.SharedKernel.dll
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Domain\bin\Debug\FinanciasWeb.SharedKernel.pdb
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Domain\obj\Debug\FinanciasWeb.Domain.csprojResolveAssemblyReference.cache
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Domain\obj\Debug\FinanciasWeb.Domain.dll
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Domain\obj\Debug\FinanciasWeb.Domain.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Domain\bin\Debug\FinanciasWeb.Domain.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Domain\bin\Debug\FinanciasWeb.Domain.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Domain\bin\Debug\FinanciasWeb.SharedKernel.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Domain\bin\Debug\FinanciasWeb.SharedKernel.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Domain\obj\Debug\FinanciasWeb.Domain.csprojResolveAssemblyReference.cache
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Domain\obj\Debug\FinanciasWeb.Domain.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Domain\obj\Debug\FinanciasWeb.Domain.pdb

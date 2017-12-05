@@ -1,0 +1,28 @@
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\obj\Debug\FinanciasWeb.Infra.csprojResolveAssemblyReference.cache
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\obj\Debug\FinanciasWeb.Infra.dll
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\obj\Debug\FinanciasWeb.Infra.pdb
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.Infra.dll.config
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.Infra.dll
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.Infra.pdb
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\bin\Debug\EntityFramework.dll
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.Domain.dll
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.SharedKernel.dll
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.Domain.pdb
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\bin\Debug\EntityFramework.xml
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.SharedKernel.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.Infra.dll.config
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.Infra.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.Infra.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\bin\Debug\EntityFramework.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.Domain.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.SharedKernel.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.Domain.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\bin\Debug\FinanciasWeb.SharedKernel.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\bin\Debug\EntityFramework.xml
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\obj\Debug\FinanciasWeb.Infra.csprojResolveAssemblyReference.cache
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\obj\Debug\FinanciasWeb.Infra.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Infra\obj\Debug\FinanciasWeb.Infra.pdb

@@ -1,0 +1,13 @@
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.AplicationService\bin\Debug\Financiasweb.AplicationService.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.AplicationService\bin\Debug\Financiasweb.AplicationService.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.AplicationService\bin\Debug\FinanciasWeb.Domain.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.AplicationService\bin\Debug\FinanciasWeb.Infra.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.AplicationService\bin\Debug\FinanciasWeb.SharedKernel.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.AplicationService\bin\Debug\EntityFramework.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.AplicationService\bin\Debug\FinanciasWeb.Domain.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.AplicationService\bin\Debug\FinanciasWeb.Infra.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.AplicationService\bin\Debug\FinanciasWeb.SharedKernel.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.AplicationService\bin\Debug\EntityFramework.xml
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.AplicationService\obj\Debug\FinanciasWeb.AplicationService.csprojResolveAssemblyReference.cache
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.AplicationService\obj\Debug\Financiasweb.AplicationService.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.AplicationService\obj\Debug\Financiasweb.AplicationService.pdb

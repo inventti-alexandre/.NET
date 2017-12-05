@@ -1,0 +1,39 @@
+C:\Projetos\Web\Sistemas\financiasweb\Financiasweb.CrossCutting\bin\Debug\Financiasweb.CrossCutting.dll
+C:\Projetos\Web\Sistemas\financiasweb\Financiasweb.CrossCutting\bin\Debug\Financiasweb.CrossCutting.pdb
+C:\Projetos\Web\Sistemas\financiasweb\Financiasweb.CrossCutting\obj\Debug\Financiasweb.CrossCutting.csprojResolveAssemblyReference.cache
+C:\Projetos\Web\Sistemas\financiasweb\Financiasweb.CrossCutting\obj\Debug\Financiasweb.CrossCutting.dll
+C:\Projetos\Web\Sistemas\financiasweb\Financiasweb.CrossCutting\obj\Debug\Financiasweb.CrossCutting.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Financiasweb.CrossCutting.dll.config
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Financiasweb.CrossCutting.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Financiasweb.CrossCutting.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\CommonServiceLocator.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\EntityFramework.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Financiasweb.AplicationService.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\FinanciasWeb.Domain.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\FinanciasWeb.Infra.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\FinanciasWeb.SharedKernel.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.Abstractions.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.Configuration.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.Container.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.Interception.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Financiasweb.AplicationService.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\FinanciasWeb.Domain.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\FinanciasWeb.Infra.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\FinanciasWeb.SharedKernel.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\CommonServiceLocator.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\EntityFramework.xml
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.Abstractions.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.Configuration.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.Container.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.Interception.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\obj\Debug\FinanciasWeb.CrossCutting.csprojResolveAssemblyReference.cache
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\obj\Debug\Financiasweb.CrossCutting.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\Financiasweb.CrossCutting\obj\Debug\Financiasweb.CrossCutting.pdb

@@ -1,0 +1,18 @@
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Tests\bin\Debug\FinanciasWeb.Tests.dll
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Tests\bin\Debug\FinanciasWeb.Tests.pdb
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Tests\bin\Debug\FinanciasWeb.Domain.dll
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Tests\bin\Debug\FinanciasWeb.SharedKernel.dll
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Tests\bin\Debug\FinanciasWeb.Domain.pdb
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Tests\bin\Debug\FinanciasWeb.SharedKernel.pdb
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Tests\obj\Debug\FinanciasWeb.Tests.csprojResolveAssemblyReference.cache
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Tests\obj\Debug\FinanciasWeb.Tests.dll
+C:\Projetos\Web\Sistemas\financiasweb\FinanciasWeb.Tests\obj\Debug\FinanciasWeb.Tests.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Tests\bin\Debug\FinanciasWeb.Tests.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Tests\bin\Debug\FinanciasWeb.Tests.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Tests\bin\Debug\FinanciasWeb.Domain.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Tests\bin\Debug\FinanciasWeb.SharedKernel.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Tests\bin\Debug\FinanciasWeb.Domain.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Tests\bin\Debug\FinanciasWeb.SharedKernel.pdb
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Tests\obj\Debug\FinanciasWeb.Tests.csprojResolveAssemblyReference.cache
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Tests\obj\Debug\FinanciasWeb.Tests.dll
+C:\Users\prolins\Documents\Visual Studio 2013\Projects\financiasweb\FinanciasWeb.Tests\obj\Debug\FinanciasWeb.Tests.pdb
