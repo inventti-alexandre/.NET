@@ -12,8 +12,8 @@ namespace FinanciasWeb.SharedKernel.Helper
         {
             if (string.IsNullOrEmpty(value))
                 return "";
-
-            value += "|54be1d80-b6d0-45c0-b8d7-13b3c798729f";
+			
+            value += "|fab473a6-c7dd-4548-8228-f07fc1f74385";
             System.Security.Cryptography.MD5 md5 = System.Security.Cryptography.MD5.Create();
             byte[] data = md5.ComputeHash(System.Text.Encoding.Default.GetBytes(value));
             System.Text.StringBuilder sbString = new System.Text.StringBuilder();
